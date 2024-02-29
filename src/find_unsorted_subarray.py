@@ -41,6 +41,3 @@ def find_min_max_elements_in_unsort_arr(arr):
 
 
 
-arr = [5, 2, 4, 7, 10, 11, 7, 12, 6, 7, 16, 18, 17]
-
-print(find_unsort_arr(arr))
