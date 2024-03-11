@@ -1,5 +1,5 @@
 import unittest
-from lab_2.src.find_min_square import least_square
+from src.find_the_minimum_size_of_the_square_board import least_square
 
 
 class MyTestCase(unittest.TestCase):
